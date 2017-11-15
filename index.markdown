@@ -1,6 +1,6 @@
 ---
 title: Title
-header: albany, ny
+header: Albany, NY
 image: 
 layout: default
 ---
