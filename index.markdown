@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Where does this title go?
 header: Albany, NY
 image: 
 layout: default
