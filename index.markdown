@@ -5,9 +5,9 @@ image:
 layout: default
 ---
 
-Most people call me Teevio, but my real name is Stephen Hallgren.  I've been 
+Stephen Hallgren (aka. Teevio) has been living and breathing all things related to the internet for as long as he can remember.
 
-
+Stephen is Partner and CTO at [Wayward Wild](https://waywardwild.com/), a digital product studio helping content creators, podcasts, and publications stay true to their DNA. He is currently focusing his time and talent on the future of podcasting through Wayward Wild's flagship product, [Simplecast](https://simplecast.com).
 
 I am currently Co-Founder & CPO at Fanhandle and am passionate about pushing technology to the limits and solving complex problems with code.
 
