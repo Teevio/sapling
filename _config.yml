@@ -1,0 +1,23 @@
+---
+title: Teevio
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+social:
+  twitter: twitter.com/teevio
+  instagram: instagram.com/teevio
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+description: Site Description
+baseurl: 
+url: 
+font: 
+font_style: 
+markdown: kramdown
