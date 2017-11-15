@@ -5,8 +5,16 @@ image:
 layout: default
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus nulla quam, et egestas ipsum venenatis ac. Integer suscipit, urna sed imperdiet euismod, lectus purus hendrerit ipsum, et ultricies felis diam non nunc. Nullam tempus turpis eget magna posuere, vel vehicula lorem convallis. Donec odio sem, lacinia viverra velit finibus, blandit tincidunt eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Pellentesque efficitur non justo id tempor. Nam non odio ante. Cras vestibulum felis nec lobortis lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas et accumsan eros.
+Most people call me Teevio, but my real name is Stephen Hallgren.  
 
-Sed vel justo eu justo pellentesque dapibus. Quisque volutpat quis augue et faucibus. In eu eros lacus. Morbi sit amet metus eget ante pellentesque suscipit eget dignissim magna. Aenean feugiat lacus egestas rutrum fringilla. Mauris risus tellus, sollicitudin eu sem aliquam, pellentesque porta purus. Donec semper sem nibh, vitae convallis lorem convallis at.
 
-Pellentesque sapien lectus, ullamcorper vel purus sit amet, pellentesque tincidunt odio. Nulla lobortis velit in risus interdum convallis. Sed lobortis purus sed leo sodales suscipit. Sed rutrum accumsan porta. Sed hendrerit ultricies sapien eu pellentesque. Suspendisse ultricies ac sem et accumsan. Proin luctus mauris ut enim pellentesque, a mattis metus feugiat. Suspendisse finibus feugiat dui in consectetur.
+
+I am currently Co-Founder & CPO at Fanhandle and am passionate about pushing technology to the limits and solving complex problems with code.
+
+In the not so distant past I’ve worked with the web engineering team at Autodesk slinging PHP, JS, HTML and CSS all over the place for their consumer product Creative Market.
+
+Prior to Creative Market, I did an 8 year stint working on Virb. I had the privilege of working with an amazing team and helping build Virb from the ground up into what it is today.
+
+I currently live in the great and grandiose city of Albany, NY [sarcasm intended] with my wife and 4 children. Aside from programming, I love to read, play guitar/ukelele, take photos, and hang out with my family.
+
+If you’re ever in town, stop by and say “Hi.”
