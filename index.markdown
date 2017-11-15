@@ -1,6 +1,6 @@
 ---
-title: Title
-header: Sample Header
+title: Where does this title go?
+header: Albany, NY
 image: 
 layout: default
 ---
