@@ -1,6 +1,6 @@
 ---
-title: Site Name
-timezone: UTC
+title: Teevio
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -9,9 +9,8 @@ collections:
     title: Uploads
     output: true
 social:
-  twitter: 
-  dribbble: 
-  email: 
+  twitter: twitter.com/teevio
+  instagram: instagram.com/teevio
 exclude:
 - README.md
 - Gemfile
