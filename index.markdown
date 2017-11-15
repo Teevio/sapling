@@ -1,12 +1,16 @@
 ---
-title: Where does this title go?
+title: Teevio
 header: Albany, NY
 image: 
 layout: default
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus nulla quam, et egestas ipsum venenatis ac. Integer suscipit, urna sed imperdiet euismod, lectus purus hendrerit ipsum, et ultricies felis diam non nunc. Nullam tempus turpis eget magna posuere, vel vehicula lorem convallis. Donec odio sem, lacinia viverra velit finibus, blandit tincidunt eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Pellentesque efficitur non justo id tempor. Nam non odio ante. Cras vestibulum felis nec lobortis lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas et accumsan eros.
+Stephen Hallgren (aka. Teevio) has been living and breathing all things related to the internet for as long as he can remember.
 
-Sed vel justo eu justo pellentesque dapibus. Quisque volutpat quis augue et faucibus. In eu eros lacus. Morbi sit amet metus eget ante pellentesque suscipit eget dignissim magna. Aenean feugiat lacus egestas rutrum fringilla. Mauris risus tellus, sollicitudin eu sem aliquam, pellentesque porta purus. Donec semper sem nibh, vitae convallis lorem convallis at.
+Teevio is Partner and CTO at [Wayward Wild](https://waywardwild.com/), a digital product studio helping content creators, podcasts, and publications stay true to their DNA. He is currently focusing his time and talent on the future of podcasting through Wayward Wild's flagship product, [Simplecast](https://simplecast.com).
 
-Pellentesque sapien lectus, ullamcorper vel purus sit amet, pellentesque tincidunt odio. Nulla lobortis velit in risus interdum convallis. Sed lobortis purus sed leo sodales suscipit. Sed rutrum accumsan porta. Sed hendrerit ultricies sapien eu pellentesque. Suspendisse ultricies ac sem et accumsan. Proin luctus mauris ut enim pellentesque, a mattis metus feugiat. Suspendisse finibus feugiat dui in consectetur.
+In the not so distant past he has worked with everyone from 3D design pioneer Autodesk to Nasty Gal, Dictionary.com and Virb. 
+
+Teevio currently lives in the great and grandiose city of Albany, NY [sarcasm intended] with his wife, 4 children and Bernese Mountain Dog. Aside from programming, he enjoys long walks on the beach, reading, playing guitar, taking photos, and hanging out with his family.
+
+If you’re ever in town, stop by and say “Hi.”
