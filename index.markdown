@@ -7,7 +7,7 @@ layout: default
 
 Stephen Hallgren (aka. Teevio) has been living and breathing all things related to the internet for as long as he can remember.
 
-Teevio is Partner and CTO at [Wayward Wild](https://waywardwild.com/), a digital product studio helping content creators, podcasts, and publications stay true to their DNA. He is currently focusing his time and talent on the future of podcasting through Wayward Wild's flagship product, [Simplecast](https://simplecast.com).
+Teevio is CTO of Audios Ventures, the home of [Simplecast](https://simplecast.com); a podcasting platform empowering audio creators with the tools they need to share their stories, evolve their craft, and connect with a world of listeners.
 
 In the not so distant past he has worked with everyone from 3D design pioneer Autodesk to Nasty Gal, Dictionary.com and Virb. 
 
