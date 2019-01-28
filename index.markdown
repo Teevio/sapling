@@ -1,7 +1,7 @@
 ---
 title: Teevio
 header: Albany, NY
-image: "/uploads/9FCBCF78-CA55-497E-AC6A-7929A4D9E65E.jpg"
+image: "/uploads/3CDF2095-2E02-4269-98F2-D3A5BA4FE017.jpg"
 layout: default
 ---
 
