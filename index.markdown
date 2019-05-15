@@ -7,7 +7,7 @@ layout: default
 
 Stephen Hallgren (aka. Teevio) has been living and breathing all things related to the internet for as long as he can remember.
 
-Teevio is CTO of Audios Ventures, the home of [Simplecast](https://simplecast.com); a podcasting platform empowering audio creators with the tools they need to share their stories, evolve their craft, and connect with a world of listeners.
+Teevio is CTO (Chief Technology of Officer) of Audios Ventures, the home of [Simplecast](https://simplecast.com); a podcasting and analytics platform empowering audio creators with the tools they need to share their stories, evolve their craft, and connect with a world of listeners.
 
 In the not so distant past he has worked with everyone from 3D design pioneer Autodesk to Nasty Gal, Dictionary.com and Virb. 
 
