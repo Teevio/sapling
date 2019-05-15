@@ -11,6 +11,7 @@ collections:
 social:
   twitter: twitter.com/teevio
   instagram: instagram.com/teevio
+  adventure: adventure.teev.io
 exclude:
 - README.md
 - Gemfile
